@@ -42,7 +42,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-ozdemir&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=5&theme=merko"/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enesozdemir&layout=compact&langs_count=2&custom_title=Last-Week&theme=merko)](https://github.com/enes-ozdemir)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enesozdemir&layout=compact&langs_count=2&custom_title=This-Month&theme=merko)](https://github.com/enes-ozdemir)
 
 
 <h3 align="left">Latest Medium posts:</h3>
