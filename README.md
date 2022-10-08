@@ -12,7 +12,7 @@
   <a href = "mailto:enesozdemir6167@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/e-ozdemir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://enesozdemir.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
-  <h3 align="center">Collaborating On</h3>
+  <h3 align="center">Collaborated On</h3>
 
 <a href="https://github.com/EvilMindDevs/hms-unity-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-unity-plugin&theme=radical" />
