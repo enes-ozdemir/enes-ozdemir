@@ -34,8 +34,8 @@
 <a href="https://github.com/enes-ozdemir/MonsterClicker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=MonsterClicker&theme=github_dark" />
 </a>
-<a href="https://github.com/enes-ozdemir/Zombie-Run">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=Zombie-Run&theme=github_dark" />
+<a href="https://github.com/enes-ozdemir/thespell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=thespell&theme=github_dark" />
 </a>
 <a href="https://github.com/enes-ozdemir/3D-Farm-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=3D-Farm-Game&theme=github_dark" />
