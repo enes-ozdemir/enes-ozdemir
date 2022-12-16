@@ -31,6 +31,9 @@
 <a href="https://github.com/enes-ozdemir/Castle-Defense">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=Castle-Defense&theme=github_dark" />
 </a>
+  <a href="https://github.com/enes-ozdemir/Space-Trader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" />
+</a>
 <a href="https://github.com/enes-ozdemir/MonsterClicker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=MonsterClicker&theme=github_dark" />
 </a>
