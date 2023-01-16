@@ -15,41 +15,41 @@
   <h3 align="center">Collaborated On</h3>
 
 <a href="https://github.com/EvilMindDevs/hms-unity-plugin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-unity-plugin&theme=radical" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-unity-plugin&theme=radical" />
 </a>
 <a href="https://github.com/EvilMindDevs/hms-sdk-unity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-sdk-unity&theme=radical" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-sdk-unity&theme=radical" />
 </a>
   <a href="https://github.com/Explore-In-HMS/huawei.ads.admob_mediation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.admob_mediation&theme=radical" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.admob_mediation&theme=radical" />
 </a>
   <a href="https://github.com/Explore-In-HMS/huawei.ads.smartadsserver_mediation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.smartadsserver_mediation&theme=radical" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.smartadsserver_mediation&theme=radical" />
 </a>
 <h3 align="center">Personal Projects</h3>
 
 <a href="https://github.com/enes-ozdemir/Castle-Defense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=Castle-Defense&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Castle-Defense&theme=github_dark" />
 </a>
   <a href="https://github.com/enes-ozdemir/Space-Trader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" />
 </a>
 <a href="https://github.com/enes-ozdemir/MonsterClicker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=MonsterClicker&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=MonsterClicker&theme=github_dark" />
 </a>
 <a href="https://github.com/enes-ozdemir/thespell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=thespell&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=thespell&theme=github_dark" />
 </a>
 <a href="https://github.com/enes-ozdemir/3D-Farm-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enes-ozdemir&repo=3D-Farm-Game&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=3D-Farm-Game&theme=github_dark" />
 </a>
 
 <h3 align="center">Stats</h3>
 <div align="center">
   <a href="https://github.com/enes-ozdemir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enes-ozdemir&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=enes-ozdemir&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-ozdemir&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=5&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=enes-ozdemir&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=5&theme=merko"/>
 
 <h3 align="left">Latest Medium posts:</h3>
 <p align="left">
