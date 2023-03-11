@@ -74,9 +74,6 @@
 <div align="center">
   <a href="https://github.com/enes-ozdemir">
   <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=enes-ozdemir&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=enes-ozdemir&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=5&theme=merko"/>
-    
     
 <h3 align="center">Latest Medium posts:</h3>
 <p align="center">
