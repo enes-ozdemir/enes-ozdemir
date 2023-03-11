@@ -16,7 +16,7 @@
 <h3 align="center">Currently Working On</h3>
   <a href="https://github.com/enes-ozdemir/Enca-Unity-Plugins" img align="center">
   </br>
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Enca-Unity-Plugins&theme=github_dark"  width="500" >
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Enca-Unity-Plugins&theme=github_dark"  width="400" >
 
 <h3 align="center">Personal Projects</h3>
   
