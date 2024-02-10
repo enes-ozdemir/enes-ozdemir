@@ -33,7 +33,7 @@
 <a href="https://github.com/enes-ozdemir/Space-Trader" img align="center">
   </br>
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" width="500"/>
-   <img align="center" src="https://camo.githubusercontent.com/1e875c14c9c9def3b8aa69d6532616b351a4206eaacb80475ce3addfa2e6d29a/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d54677a4d6a6b304e6938784d4463314e7a49334d793577626d633d2f6f726967696e616c2f665a4f464d7a2e706e67" width="500"> 
+   <img align="center" src="https://camo.githubusercontent.com/6247bf56a6f4741e40738232221e9b61c567335804510a15cc2fe3e92611ae9d/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d54677a4d6a6b304e6938784d4463314e7a49334d793577626d633d2f6f726967696e616c2f665a4f464d7a2e706e67" width="500"> 
 </a>
 </td>
 </tr>
