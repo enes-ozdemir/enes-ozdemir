@@ -75,10 +75,6 @@
   <a href="https://github.com/enes-ozdemir">
   <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=enes-ozdemir&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     
-<h3 align="center">Latest Medium posts:</h3>
-<p align="center">
-<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@enesozdemir/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@enesozdemir/0" align="center" alt="Recent Article 0"> 
-
 </div>
 
 
