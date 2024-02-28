@@ -30,26 +30,28 @@
 </a>
 </td>
 <td>
-<a href="https://github.com/enes-ozdemir/Space-Trader" img align="center">
+<a href="https://github.com/enes-ozdemir/RPG-Project" img align="center">
   </br>
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" width="500"/>
-   <img align="center" src="https://camo.githubusercontent.com/6247bf56a6f4741e40738232221e9b61c567335804510a15cc2fe3e92611ae9d/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d54677a4d6a6b304e6938784d4463314e7a49334d793577626d633d2f6f726967696e616c2f665a4f464d7a2e706e67" width="500"> 
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=RPG-Project&theme=github_dark" width="500"/>
+   <img align="center" src="https://github.com/enes-ozdemir/enes-ozdemir/assets/41696219/d48e9b2e-aaf6-46e2-8f92-9a319e427364" width="500""> 
 </a>
 </td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://github.com/enes-ozdemir/Match-3" img align="center">
+  <td align="center">
+
+  <a href="https://github.com/enes-ozdemir/Space-Trader" img align="center">
   </br>
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Match-3&theme=github_dark"  width="500"/>
-   <img align="center" src="https://user-images.githubusercontent.com/41696219/223495641-d255abb5-3723-43a8-936b-2b42eddaad56.png" width="300" height="500"> 
-</a>
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" width="500"/>
+   <img align="center" src="https://camo.githubusercontent.com/6247bf56a6f4741e40738232221e9b61c567335804510a15cc2fe3e92611ae9d/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d54677a4d6a6b304e6938784d4463314e7a49334d793577626d633d2f6f726967696e616c2f665a4f464d7a2e706e67" width="500"> 
+
 </td>
 <td align="center">
-<a href="https://github.com/enes-ozdemir/MonsterClicker" img align="center">
+<a href="https://github.com/enes-ozdemir/2D-RPG" img align="center">
   </br>
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=MonsterClicker&theme=github_dark" width="500"/>
-   <img align="center" src="https://user-images.githubusercontent.com/41696219/151675906-ae48ef66-b5ab-4f65-87bb-963792cca049.png" width="300" height="500"> 
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=2D-RPG&theme=github_dark"  width="500"/>
+   <img align="center" src="https://github.com/enes-ozdemir/enes-ozdemir/assets/41696219/b6da31a4-9879-4d85-b4ae-c79a952ecb9c" width="500""> 
+</a>
 </a>
 </td>
 </tr>
