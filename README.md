@@ -13,11 +13,6 @@
   <a href="https://www.linkedin.com/in/e-ozdemir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://enesozdemir.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   
-<h3 align="center">Currently Working On</h3>
-  <a href="https://github.com/enes-ozdemir/Enca-Unity-Plugins" img align="center">
-  </br>
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Enca-Unity-Plugins&theme=github_dark"  width="400" >
-
 <h3 align="center">Personal Projects</h3>
   
 <table align="center">
