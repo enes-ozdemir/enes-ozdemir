@@ -42,9 +42,9 @@
 
 </td>
 <td align="center">
-<a href="https://github.com/enes-ozdemir/2D-RPG" img align="center">
+<a href="https://github.com/enes-ozdemir/RPG-Systems" img align="center">
   </br>
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=2D-RPG&theme=github_dark"  width="500"/>
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=RPG-Systems&theme=github_dark"  width="500"/>
    <img align="center" src="https://github.com/enes-ozdemir/enes-ozdemir/assets/41696219/b6da31a4-9879-4d85-b4ae-c79a952ecb9c" width="500""> 
 </a>
 </a>
