@@ -6,6 +6,7 @@
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" height="40" width="50" alt="TeamCity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamcity/teamcity-original.svg">
   </br>  </br>
   
 <div align="center">
